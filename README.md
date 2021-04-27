@@ -1,1 +1,3 @@
-# DATASCIENCEproject-sistema-recomendacao-clientes
+# Sistema de recomendação de filmes 
+
+Um sistema de recomendação fornece sugestões aos usuários por meio de um processo de filtragem baseado nas preferências do usuário e no histórico de navegação. As informações sobre o usuário são consideradas uma entrada. A informação é retirada da entrada que se encontra na forma de dados de navegação. Essas informações refletem o uso anterior do produto, bem como as classificações atribuídas. Um sistema de recomendação é uma plataforma que oferece a seus usuários diversos conteúdos de acordo com suas preferências e gostos. Um sistema de recomendação leva as informações sobre o usuário como uma entrada
